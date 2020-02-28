@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primeira Atividade</string>
+    <string name="descricao">中國</string>
+    <string name="descricaoComida">" 炒麵"</string>
+    <string name="nomeComida">" 炒麵"</string>
+    <string name="nomePais">中國</string>
+</resources>

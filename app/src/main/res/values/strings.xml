@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primeira Atividade</string>
+    <string name="nomePais">Brasil</string>
+    <string name="nomeComida">Feijoada</string>
+    <string name="descricao">Brasil</string>
+    <string name="descricaoComida">Feijoada</string>
+</resources>

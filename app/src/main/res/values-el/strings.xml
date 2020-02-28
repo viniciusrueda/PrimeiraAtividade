@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primeira Atividade</string>
+    <string name="descricao">Ελλάδα</string>
+    <string name="descricaoComida">" Kebab"</string>
+    <string name="nomeComida">" Kebab"</string>
+    <string name="nomePais">Ελλάδα</string>
+</resources>

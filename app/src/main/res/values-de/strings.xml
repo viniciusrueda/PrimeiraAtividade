@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primeira Atividade</string>
+    <string name="descricao">German</string>
+    <string name="descricaoComida">Himmel und Erde</string>
+    <string name="nomeComida">Himmel und Erde</string>
+    <string name="nomePais">German</string>
+</resources>
